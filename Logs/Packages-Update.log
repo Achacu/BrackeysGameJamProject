@@ -59,3 +59,15 @@ The following packages were updated:
   com.unity.2d.spriteshape from version 3.0.12 to 3.0.14
   com.unity.ide.vscode from version 1.2.1 to 1.2.3
   com.unity.test-framework from version 1.1.14 to 1.1.22
+
+=== Fri Feb 12 13:31:38 2021
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.ads@3.6.1
+  com.unity.analytics@3.3.5
+  com.unity.multiplayer-hlapi@1.0.8
+  com.unity.purchasing@2.2.1
+  com.unity.xr.legacyinputhelpers@2.1.7
